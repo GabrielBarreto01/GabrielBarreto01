@@ -4,7 +4,7 @@ Olá! Me chamo Gabriel Barreto, e este é o meu repositório no GitHub. Atualmen
 
 ## Sobre Mim
 
-Sou um estudante apaixonado por tecnologia e segurança da informação. Minha jornada acadêmica e profissional tem sido guiada pelo desejo de proteger dados, sistemas e redes contra ameaças cibernéticas. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e aprender mais sobre este campo dinâmico e em constante evolução.
+Meu contato com a área da computação foi muito cedo, por volta dos meus 10 anos, conheci o que era a internet e o que poderiamos fazer com ela. Meus primeiros passos foram tentar reescrever textos dos meus livros paradiáticos escolares do fundamental, de forma a desenvolver a digitação, além de claro, promover a navegação na internet como um todo como sendo ao longo dos anos, deixando de ser um mero passatempo para ser um tempo digno de aprendizado e ênfase no desenvolvimento de minha carreira profissional. Atualmente, sou um estudante de uma área co-relata a informática, chamada Segurança da Informação. Já minha jornada acadêmica e profissional tem sido guiada pelo desejo de sempre descobrir como e quais dados devem ser protegidos, quais sistemas e redes devo ficar atento para implementação de medidas de segurança contra ameaças cibernéticas. Além disso, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e aprender mais sobre este campo dinâmico e em constante evolução que é a área de Segurança Cibernética.
 
 ## Cursos e Certificações
 
