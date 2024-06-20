@@ -39,11 +39,11 @@ Sou um estudante apaixonado por tecnologia e segurança da informação. Minha j
 
 ## Competências Técnicas
 
-- Segurança de Redes
-- Criptografia
-- Análise de Vulnerabilidades
-- Testes de Penetração
-- Segurança em Aplicações Web
+- Segurança de Redes;
+- Criptografia;
+- Análise de Vulnerabilidades;
+- Testes de Penetração;
+- Segurança em Aplicações Web;
 - Ferramentas de Segurança (Wireshark, Nmap, Metasploit, etc.)
 
 ## Entre em Contato
