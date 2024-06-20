@@ -8,8 +8,8 @@ Sou um estudante apaixonado por tecnologia e segurança da informação. Minha j
 
 ## Cursos e Certificações
 
-- **Curso de Segurança da Informação** - Universidade Federal do Ceará - Campus Jardins de Anita. (2021.1 - 2024.2 - Previsão de conclusão)
-- **Certificações:** Certificação na LGPD pela certificadora CertiProf (2023); Certificado em Remote Work pela certificadora CertiProf (2023)
+- **Curso de Segurança da Informação** - Universidade Federal do Ceará - Campus Jardins de Anita. (2021.2 - 2024.2 - Previsão de conclusão).
+- **Certificações:** Certificação na LGPD pela CertiProf (2023); Certificado em Remote Work pela CertiProf (2023).
 
 ## Projetos Destacados
 
