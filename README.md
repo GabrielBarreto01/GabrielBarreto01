@@ -16,23 +16,27 @@ Sou um estudante apaixonado por tecnologia e segurança da informação. Minha j
 
 ### 1. Criação de um site com foco na divulgação de palestras para o evento Workshop de Ciência, Inovação e Tecnologia (Wcit) ocorrido na Universidade Federal do Ceará - Campus Itapajé.
 
-**Descrição:** Este projeto foca em [descrição breve do projeto]. Ele foi desenvolvido utilizando html e css.
+**Descrição:** Este projeto teve como foco a amostragem de palestras para visitantes do event, contendo locazalição, horário e nomes dos palaestrantes que estariam realizando as mesmas nos horários respectivos. Ele foi desenvolvido utilizando Html e Css, posteriormente adaptado para wordpress para ser adaptativo ao site da Universidade.
 
 **Destaques:**
 - [Ponto importante 1]
 - [Ponto importante 2]
 - [Ponto importante 3]
 
-**Repositório:** [Link para o repositório]
+**Repositório:** https://github.com/GabrielBarreto01/2Wcit_Site_UFC
 
-### 2. [Nome do Projeto 2]
+### 2. Chat interativo em Python para combate ao Discurso de Ódio
 
-**Descrição:** Neste projeto, explorei [descrição breve do projeto]. As principais tecnologias utilizadas incluem [tecnologias e ferramentas utilizadas].
+**Descrição:** Neste projeto, explorei os conhecimentos adquiridos com as disciplinas de programação dsponíveis da faculdade juntamente com algumas conversas entre pessoas do meu convivio que vinham reparando na quantidade de palavras, frases e ofensas das quais estavam tendo bastante visibilidade, devido principalmente a não rápida captação e ação das redes sociais que vise o combate aos tais. As principais tecnologias utilizadas incluem Python, Inteligẽncia Artificial (IA), Machine Learning, BERTimbau em Português, Dataset regionalizado em foco a região nordeste do Brasil.
 
 **Destaques:**
-- [Ponto importante 1]
-- [Ponto importante 2]
-- [Ponto importante 3]
+- Chat interativo entre dois usuários ou mais com disponibilidade para o servidor acompanhar em tempo real as mensagens trocadas entre os seus usuários;
+- Possível a identificação do Discurso de Ódio através de um modelo pré-treinado, BERTimbau em Português que com um auxilio do dataset criado por mim, torna a tarefa cada vez mais fácil;
+- Chat feito em Python, com auxilio de Machine Learning e estudos relacionados a inteligência artificial.
+  
+**Repositório:** https://github.com/GabrielBarreto01/IdentificadorDiscursoOdioComBERTimbau
+
+
 
 ## Competências Técnicas
 
@@ -48,18 +52,6 @@ Sou um estudante apaixonado por tecnologia e segurança da informação. Minha j
 Estou sempre aberto a novas colaborações e oportunidades. Se você tiver alguma dúvida, sugestão ou proposta de colaboração, não hesite em me contatar.
 
 - **Email:** gabrielbarretogomes01@gmail.com
-- **LinkedIn:**
-
-## Contribuições
-
-Se você deseja contribuir para qualquer um dos meus projetos, fique à vontade para fazer um fork em algum repositório e enviar um pull request. Estou ansioso para ver suas sugestões e melhorias!
-
----
+- **LinkedIn:** https://www.linkedin.com/in/gabrielbarreto01/
 
 Obrigado por visitar meu GitHub!
-
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
-**[Seu Nome]**
-
-[Seu GitHub]([https://github.com/GabrielBarreto01])
