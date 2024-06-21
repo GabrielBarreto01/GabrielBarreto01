@@ -49,9 +49,9 @@ Meu contato com a área da computação foi muito cedo, por volta dos meus 10 an
 ## Estatísticas GitHub
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbarreto01&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbarreto01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/GabrielBarreto01">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarreto01&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarreto01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/GabrielBarreto01/GabrielBarreto01/blob/output/github-contribution-grid-snake.svg)
