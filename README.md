@@ -46,6 +46,14 @@ Meu contato com a área da computação foi muito cedo, por volta dos meus 10 an
 - Segurança em Aplicações Web;
 - Ferramentas de Segurança (Wireshark, Nmap, Metasploit, etc.)
 
+## Estatísticas GitHub
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbarreto01&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbarreto01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Entre em Contato
 
 Estou sempre aberto a novas colaborações e oportunidades. Se você tiver alguma dúvida, sugestão ou proposta de colaboração, não hesite em me contatar.
